@@ -1,4 +1,4 @@
-package ru.kostrykt.gb_asl_mynotes;
+package ru.kostrykt.gb_asl_mynotes.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
+import ru.kostrykt.gb_asl_mynotes.R;
 import ru.kostrykt.gb_asl_mynotes.databinding.FragmentFirstBinding;
 
 public class FirstFragment extends Fragment {

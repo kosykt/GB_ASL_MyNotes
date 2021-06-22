@@ -1,4 +1,4 @@
-package ru.kostrykt.gb_asl_mynotes;
+package ru.kostrykt.gb_asl_mynotes.ui;
 
 import android.os.Bundle;
 
@@ -13,6 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import ru.kostrykt.gb_asl_mynotes.R;
 import ru.kostrykt.gb_asl_mynotes.databinding.ActivityMainBinding;
 
 import android.view.Menu;
